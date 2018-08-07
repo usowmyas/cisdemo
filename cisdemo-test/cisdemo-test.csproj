@@ -6,8 +6,8 @@
     <ProjectGuid>{3B0ACC0C-885F-4D5C-9131-1C17DF85EAAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>aspnet4_test</RootNamespace>
-    <AssemblyName>aspnet4-test</AssemblyName>
+    <RootNamespace>cisdemo_test</RootNamespace>
+    <AssemblyName>cisdemo-test</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
