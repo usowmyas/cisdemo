@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace aspnet4_sample
+namespace cisdemo_sample
 {
     public class RouteConfig
     {

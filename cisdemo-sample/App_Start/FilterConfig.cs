@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace aspnet4_sample
+namespace cisdemo_sample
 {
     public class FilterConfig
     {

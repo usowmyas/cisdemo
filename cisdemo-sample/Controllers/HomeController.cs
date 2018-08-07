@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace aspnet4_sample.Controllers
+namespace cisdemo_sample.Controllers
 {
     public class HomeController : Controller
     {
@@ -15,14 +15,14 @@ namespace aspnet4_sample.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Sample CIS Applicaiton description page.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Sample CIS contact page.";
 
             return View();
         }
